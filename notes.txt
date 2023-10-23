@@ -1,0 +1,9 @@
+// 
+
+
+
+//React social icons for the icons in the
+// Framer motion for animation
+// React-simple-typewriter for the typewriter motion
+
+//tailwind-scrollbar for custom scroll
